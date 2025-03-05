@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 
 namespace MVC.Models
 {
+    //comment class
     public class Comment
     {
         [JsonProperty("id")]
